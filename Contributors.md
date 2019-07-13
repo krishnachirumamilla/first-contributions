@@ -4625,6 +4625,7 @@ Orandi Harris
 - [Michel Michels](https://github.com/MichelMichels)
 - [Miguel Meza](https://github.com/peyuking09)
 - [DerekL1688](https://github.com/derekl1688)
+- [Krishna Chirumamilla](https://github.com/krishnachirumamilla)
 - [Tricia Cuninghame](https://github.com/Tricky2712)
 - [Caio Vilas](https://github.com/caiovilas)
 - [Brendan Hanna](https://github.com/gepetto503)
